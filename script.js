@@ -26,5 +26,4 @@ Array.from(buttons).forEach((button)=>{
         }
         
     })
-}
-                           )
+})
